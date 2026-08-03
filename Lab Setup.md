@@ -8,8 +8,10 @@ Before starting the SOC labs, we need to create and configure the required virtu
 Create the following virtual machines using VMware Workstation.
 
 ### Windows Server 2019
+Download Windows Server 2019 Evaluation from:
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 
-Allocate the following resources.
+Allocate the following resources:
 
 - 2 CPU Cores
 - 4 GB RAM
@@ -21,8 +23,10 @@ This machine will be used to install Splunk Enterprise.
 ---
 
 ### Windows Server 2025
+Download Windows Server Evaluation from:
+https://www.microsoft.com/en-us/evalcenter
 
-Allocate the following resources.
+Allocate the following resources:
 
 - 2 CPU Cores
 - 4 GB RAM
@@ -34,8 +38,10 @@ This machine will be used to install IIS Web Server and Splunk Universal Forward
 ---
 
 ### Ubuntu
+Download Ubuntu Desktop LTS from:
+https://ubuntu.com/download/desktop
 
-Allocate the following resources.
+Allocate the following resources:
 
 - 2 CPU Cores
 - 2 GB RAM
