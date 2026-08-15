@@ -12,8 +12,8 @@
 
 | Machine | Operating System | Purpose |
 |---------|------------------|---------|
-| Windows Server 2019 | Windows Server 2019 | Splunk Enterprise |
-| Windows Server 2025 | Windows Server 2025 | IIS + Universal Forwarder |
+| Host | Host | Splunk Enterprise |
+| Host | Host | IIS |
 | Ubuntu | Ubuntu | Snort IDS + Universal Forwarder |
 
 
