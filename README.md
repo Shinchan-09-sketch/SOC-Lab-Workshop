@@ -4,9 +4,6 @@
 - Lab-3: Local Logging: Configuring, Monitoring, and Analyzing Snort IDS Logs
 - Lab-4: Centralized Logging: Collecting Logs from Different Devices into Centralized Location Using Splunk
 
-## Lab Setup
-
-[Click here to view the Lab Setup Guide](./Lab%20Setup.md)
 
 # Lab Environment
 
